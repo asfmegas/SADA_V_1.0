@@ -1,4 +1,4 @@
-Faculdade de Ciências Tecnilôgicas de Fortaleza - FCTFOR(UNICE)
+Faculdade de Ciências Tecnológicas de Fortaleza - FCTFOR(UNICE)
 
 Projeto de conclusão do curso de Análise e Desenvolvimento de Sistemas
 
